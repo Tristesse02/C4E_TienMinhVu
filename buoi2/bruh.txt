@@ -1,1 +1,4 @@
 hi im minh vu
+git add .
+git commit -m"a name"
+git push
